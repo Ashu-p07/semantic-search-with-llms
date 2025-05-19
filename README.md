@@ -21,7 +21,7 @@ A hands-on learning journey into building modern semantic search systems using v
 |11 | **Evaluating Embeddings** | Precision@k, recall, cosine similarity |
 |12 | **Hybrid Search** | Keyword + vector (Elasticsearch + FAISS) |
 |13 | **Deploying Vector Search App** | FastAPI + Docker |
-|14 | **Capstone Project** | Full-stack PDF QA or image finder app |
+
 
 ---
 
