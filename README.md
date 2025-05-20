@@ -8,7 +8,7 @@ A hands-on learning journey into building modern semantic search systems using v
 
 | Day | Topic | Highlights |
 |-----|-------|------------|
-| 1 | ✅ **Vector Databases** | FAISS, HNSW, PQ – ANN search |
+| 1 | **Vector Databases** | FAISS, HNSW, PQ – ANN search |
 | 2 | **Contrastive Learning loss fubctions** | Contrastive loss, NCE, Triplet Loss, Lifted Structured, N-Pair Loss, InfoNCE, SNNL|
 | 3 | **Vector Embeddings** | Word2Vec, BERT, CLIP |
 | 4 | **Dimensionality Reduction** | PCA, t-SNE, UMAP |
