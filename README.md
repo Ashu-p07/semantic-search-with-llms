@@ -10,8 +10,9 @@ A hands-on learning journey into building modern semantic search systems using v
 |-----|-------|------------|
 | 1 | **Vector Databases** | FAISS, HNSW, PQ – ANN search |
 | 2 | **Contrastive Learning loss functions** | Contrastive loss, NCE, Triplet Loss, Lifted Structured, N-Pair Loss, InfoNCE, SNNL|
-| 3 | **Vector Embeddings** | Word2Vec, BERT, CLIP |
-| 4 | **Dimensionality Reduction** | PCA, t-SNE, UMAP |
+| 3 | **Image Embeddings and Augmentation** | Basic Augmenetation,  Learned Augmentation Policies, Image Mixture Techniques |
+| 4 | **Vector Embeddings** | Word2Vec, BERT, CLIP |
+| 5 | **Dimensionality Reduction** | PCA, t-SNE, UMAP |
 | 5 | **Image Embeddings** | CLIP, ResNet for visual similarity |
 | 6 | **Text Embeddings** | Sentence-BERT, BERT, semantic similarity |
 | 7 | **Multimodal Embeddings** | CLIP – search images with text |
